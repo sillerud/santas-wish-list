@@ -1,0 +1,23 @@
+{
+  "name": "santas-wish-list",
+  "version": "1.0.0",
+  "description": "Hei",
+  "main": "server/index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sillerud/santas-wish-list.git"
+  },
+  "author": "Satan Claus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sillerud/santas-wish-list/issues"
+  },
+  "homepage": "https://github.com/sillerud/santas-wish-list#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
